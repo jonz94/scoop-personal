@@ -15,7 +15,7 @@
             "hash": "a72a90e2897ea296b777c325a37c981a0b51e2fe0c8b8735e3366b65e958cddc"
         }
     },
-    "extract_dir": "Neovim",
+    "extract_dir": "nvim-win64",
     "bin": "bin\\nvim.exe",
     "checkver": {
         "github": "https://github.com/neovim/neovim",
