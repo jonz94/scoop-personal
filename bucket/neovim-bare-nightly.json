@@ -19,8 +19,7 @@
     "bin": "bin\\nvim.exe",
     "checkver": {
         "url": "https://api.github.com/repos/neovim/neovim/releases",
-        "regex": "NVIM v([\\w.-]+)\\+([\\w.-]+)",
-        "replace": "${1}-${2}"
+        "regex": "NVIM v([\\w.-]+)"
     },
     "autoupdate": {
         "architecture": {
