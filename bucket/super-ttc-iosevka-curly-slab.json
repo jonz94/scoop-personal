@@ -1,10 +1,10 @@
 {
-    "version": "16.3.6",
+    "version": "16.4.0",
     "description": "Iosevka is an open-source, sans-serif + slab-serif, monospace + quasi-proportional typeface family",
     "homepage": "https://github.com/be5invis/Iosevka",
     "license": "OFL-1.1",
-    "url": "https://github.com/be5invis/Iosevka/releases/download/v16.3.6/super-ttc-iosevka-curly-slab-16.3.6.zip",
-    "hash": "8a08d20550dcdefd0ac023244295aa752639dea623be056ec00feea474deae13",
+    "url": "https://github.com/be5invis/Iosevka/releases/download/v16.4.0/super-ttc-iosevka-curly-slab-16.4.0.zip",
+    "hash": "141344465fbfe2a0b77e92e3c3678ec061538e18dcd488dedfafec032dd96f20",
     "installer": {
         "script": [
             "$currentBuildNumber = [int] (Get-ItemProperty \"HKLM:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\").CurrentBuildNumber",
