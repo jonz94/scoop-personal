@@ -1,0 +1,13 @@
+{
+    "version": "0.3.2",
+    "description": "Tabiew is a lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV and TSV files",
+    "homepage": "https://github.com/shshemi/tabiew",
+    "license": "Apache-2.0",
+    "url": "https://github.com/shshemi/tabiew/releases/download/v0.3.2/tw.exe",
+    "hash": "bcd3cb4a9188cc5ba206b9043ddb774b642801d021e9181e3aff4837b584ae28",
+    "bin": "tw.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/shshemi/tabiew/releases/download/v$version/tw.exe"
+    }
+}
